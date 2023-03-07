@@ -19,7 +19,7 @@ body {
     height: 1480px;
     background-color: #fbfbfbbc;
     text-align: center;
-    background-image: url(https://grishaosher.github.io/img/bgpromo.png) ;
+    background-image: url(../img/bgpromo.png) ;
 }
 
 .header{
@@ -272,7 +272,7 @@ input[ type="email" ]{
 
 .ctastat{
     margin-top: 100px;
-    background-image: url(https://grishaosher.github.io/);
+    background-image: url(https://grishaosher.github.io/img/CTABG.png);
     height: 405px;
     width: 1200px;
 }
